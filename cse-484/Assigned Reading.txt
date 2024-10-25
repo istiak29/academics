@@ -1,0 +1,10 @@
+
+Cloud-AR5: https://www.geeksforgeeks.org/virtualization-cloud-computing-types/
+
+
+Cloud-AR6: https://www.edureka.co/blog/docker-tutorial
+
+
+Cloud-AR7: https://training.play-with-docker.com/beginner-linux/#Task_0
+
+Cloud-AR8: https://blog.purestorage.com/purely-educational/san-vs-nas-vs-das-whats-the-difference/#:~:text=The%20major%20differences%20between%20DAS,also%20used%20for%20transmitting%20data
